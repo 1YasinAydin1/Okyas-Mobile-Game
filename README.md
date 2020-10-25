@@ -1,2 +1,2 @@
 # Okyas-Mobile-Game
-Mobile Programming With Java
+Mobile programming with java using libGdx library
